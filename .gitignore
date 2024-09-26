@@ -4,6 +4,8 @@ build
 # Dist
 dist
 
+!package/**/*
+
 # Logs
 logs
 *.log
